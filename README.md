@@ -29,7 +29,7 @@ Overall, the Kickstarter analysis went fairly smoothly. However, we did have a s
 
 ## Results
   * What are two conclusions you can draw about the Outcomes Based on Launch Date?
-    - Successful campaigns usually launched in the spring and peaked in early summer. Those successful campaigns then declinerd for the remainder of          the year.
+   - Successful campaigns usually launched in the spring and peaked in early summer. Those successful campaigns then declinerd for the remainder of          the year.
   
    * What can you conclude about the Outcomes Based on Goals?
     - In general, campaigns become less successful as the dollar amount of their goal increases.
