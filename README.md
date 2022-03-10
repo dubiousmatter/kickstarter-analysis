@@ -1,4 +1,4 @@
-#### Kickstarting with Excel
+### Kickstarting with Excel
 
 ## Overview of Project
 Our client, Louise, contracted with us to provide an analysis of relevant Kickstarter campaigns in the theatrical space. Louise began a Kickstarter campaign for her play titled Fever in June of 2016. That campaign sought to raise $2,885. Louise's Kickstarter campaign ended up raising $2,485 in just over thirty days. She then wanted to know how other campaigns in the theatrical space fared in relation to their launch dates and funding goals.
@@ -14,4 +14,14 @@ The first primary dataset we analyzed was Outcomes Based on Launch Date. We look
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/101157423/157754279-255d2c7b-a93e-4084-8cae-a3257f3c8c64.png)
 
+As you can see from the above chart, there were a total of 1,369 campaigns analyzed. Our analysis did not include live campaigns. Successful campaigns accounted for 61% or 839 of those campaigns. Failed campaigns were lower at 493 or 36% of the total. Campaigns that were ultimately canceled only accounted for 37 or 27% of the total. Our chart also shows that successful campaigns broke out to the upside in late March before peaking and moving steadily lower in May. Failed campaigns, as well as those canceled, remained steady throughout the year.
+
+## Analysis of Outcomes Based on Goals
+The second primary dataset that we analyzed was Outcomes Based on Goals. Once again, we looked at all Kickstarter campaigns in the theater/play catgory and subcategory. We then broke down the number of successful, failed and canceled campaigns based upon their goal range.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/101157423/157765390-dcb28230-6a8d-497f-b013-213041fa7b66.png)
+
+The above chart shows the percentage of succesful, failed and canceled campaigns  on the y-axis by the goal ranges listed on the x-axis. The percentage of failed campaigns rose steadily until reaching the 25,000 to 25,999 range. Failed outcomes then declined until reaching the 40,000 to 44,999 range, at which point they spiked to their peak in the 45,000 to 49,999 range. Successful campaings moved inversely to failed campaigns by slowly trending lower until reaching the 25,000 to 29,999 range. They then moved higher until reaching the 40,000 to 44,999 range at which point they fell precipitously.
+
+## Challenges and Difficulties Encountered
 
