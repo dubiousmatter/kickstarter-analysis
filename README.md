@@ -1,4 +1,4 @@
-### Kickstarting with Excel
+# Kickstarting with Excel
 
 ## Overview of Project
 Our client, Louise, contracted with us to provide an analysis of relevant Kickstarter campaigns in the theatrical space. Louise began a Kickstarter campaign for her play titled Fever in June of 2016. That campaign sought to raise $2,885. Louise's Kickstarter campaign ended up raising $2,485 in just over thirty days. She then wanted to know how other campaigns in the theatrical space fared in relation to their launch dates and funding goals.
@@ -25,3 +25,17 @@ The above chart shows the percentage of succesful, failed and canceled campaigns
 
 ## Challenges and Difficulties Encountered
 
+Overall, the Kickstarter analysis went fairly smoothly. However, we did have a slight issue with the Outcomes Based on Goals spreadsheet due to two small mistakes in seperate formulas. When our chart did not look accurate, we went through each of the formulas and found the two errors fairly quickly.
+
+## Results
+  * What are two conclusions you can draw about the Outcomes Based on Launch Date?
+    - Successful campaigns usually launched in the spring and peaked in early summer. Those successful campaigns then declinerd for the remainder of          the year.
+  
+   * What can you conclude about the Outcomes Based on Goals?
+    - In general, campaigns become less successful as the dollar amount of their goal increases.
+  
+   * What are some limitations of the dataset?
+    - The potential limitations of the dataset include wide ranges used for the goal amounts examined, no accounting for the average size of donations         broken down by outcomes, the number of donors by outcome and the country of origin by outcome.
+   
+   * What are some other possible tables and/or graphs that we coul creat?
+    - We could have chartered or graphed the average size of donations broken down by outcomes and the number of donors by outcome. 
